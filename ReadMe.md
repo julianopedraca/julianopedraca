@@ -3,8 +3,8 @@
 </div>
 
 # 💫About Me :
-- 🔭 I'm currently looking for my first job as a software developer
-- 🌱 Currently i'm studying **JavaScript, TypeScript, Angular and Node**
+- 🔭 Software developer
+- 🌱 Currently i'm studying **JavaScript, TypeScript, Angular, Node and React**
 - 💬 Ask me about **cosmos**
 - 😊 Fun Fact: I'm a nonpracticing amateur ufologist  
 
