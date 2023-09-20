@@ -16,9 +16,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoPedraca&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JulianoPedraca&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano-pedra%C3%A7a-9b3387144/) 
-[![](https://visitcount.itsvg.in/api?id=JulianoPedraca&icon=0&color=0)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano-pedra%C3%A7a-9b3387144/)
