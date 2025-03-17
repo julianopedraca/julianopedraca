@@ -1,20 +1,19 @@
-<div align="center">
-  <h1> Greetings Everyone! I'm Juliano</h1>
-</div>
+# Hi there! 👋 I'm Juliano Baptista de Souza Pedraça  
 
-# 💫About Me :
-- 🔭 Software developer
-- 🌱 Currently i'm studying **JavaScript, TypeScript, Angular, Node and React**
-- 💬 Ask me about **cosmos**
-- 😊 Fun Fact: I'm a nonpracticing amateur ufologist  
+💻 **Full-Stack Developer | Passionate About Scalable Applications**  
 
-# 💻Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=JulianoPedraca&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JulianoPedraca&theme=blueberry&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoPedraca&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+I’m a **full-stack developer** with expertise in designing and building **scalable, high-performance web applications**. I enjoy working across the stack, crafting **efficient backends** and **dynamic frontends** while ensuring clean architecture and maintainable code.  
 
----
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano-pedra%C3%A7a-9b3387144/)
+## 🚀 What I Work With  
+- **Backend:** Golang (Gin), Node.js (Express, NestJS), PHP (Laravel, Symfony), Ruby on Rails  
+- **Frontend:** React, Angular, TypeScript, Remix  
+- **Databases:** Neo4j, PostgreSQL, SQL, SQLite3, ElasticSearch  
+- **DevOps & Tools:** Docker, AWS (learning), CI/CD  
+
+## 🌱 Currently Exploring  
+- **Cloud computing with AWS** ☁️  
+- **Advanced Go design patterns** 🏗  
+- **Distributed systems & microservices** 🔗  
+
+📫 **Let's connect!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juliano-pedraca/)  
